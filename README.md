@@ -1,7 +1,7 @@
 # GimmeInfo
 A simple web scraper that takes in a search query and returns a specified number of results of text. from web pages.
 
-# Insitallation
+# Installation
 
 1. Run the setup.py script to make sure you have all the dependencies installed
 
