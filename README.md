@@ -1,7 +1,7 @@
 # gimmeinfo
 A simple web scraper that takes in a search query and returns a specified number of results of text. from web pages.
 
-#Insitallation
+# Insitallation
 
 1. Run the setup.py script to make sure you have all the dependencies installed
 
@@ -9,7 +9,7 @@ A simple web scraper that takes in a search query and returns a specified number
 
 3. Import  the file by using import gimmeinfo
 
-#Getting started
+# Getting started
 Using GimmeInfo is very simple, all you need to do is run the gimme_info function.
 Here is a quick example of how to use the function:
 result = gimmeinfo.gimme_info(query="iPhone", data_format=search.DATA_AS_COMBINED, maxi=2, mini=0,language_filter="en")
