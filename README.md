@@ -1,7 +1,7 @@
 # GimmeInfo
 A simple web scraper that takes in a search query and returns a specified number of results of text. from web pages.
 
-You probably will not get the same text as this as the internet are constantly new things coming out on the internet but you should get something that looks like this after running the example:
+**You probably will not get the same text as this as the internet are constantly new things coming out on the internet but you should get something that looks like this after running the example:**
 <img src="https://raw.githubusercontent.com/JP-Vela/GimmeInfo/master/gimmeinfoexample.png" alt="drawing" width="500"/>
 
 # Installation
