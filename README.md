@@ -9,7 +9,7 @@ A simple web scraper that takes in a search query and returns a specified number
 
 3. Import  the file by using import gimmeinfo
 
-# Getting started
+# Usage
 Using GimmeInfo is very simple, all you need to do is run the gimme_info function.
 Here is a quick example of how to use the function:
 result = gimmeinfo.gimme_info(query="iPhone", data_format=search.DATA_AS_COMBINED, maxi=2, mini=0,language_filter="en")
@@ -27,3 +27,6 @@ max is the last result wanted
 mini is the first result wanted
 
 language_filter is the specified language code to filter out websites in any other language
+
+
+This project uses the Google Python package.
