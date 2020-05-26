@@ -19,9 +19,9 @@ result = gimmeinfo.gimme_info(query="iPhone", data_format=search.DATA_AS_COMBINE
 
 **data_format** specifies the form you want the return value in.
 There are currently the following three data formats:
-1. DATA_AS_COMBINED             The data in each website as one big string
-2. DATA_AS_COMBINED_WITH_SPACE                The data in each website as one big string with newlines in between each paragraph
-3. DATA_AS_ARRAY                The data in each website seperated into different elements of an array
+1. **DATA_AS_COMBINED**             The data in each website as one big string
+2. **DATA_AS_COMBINED_WITH_SPACE**                The data in each website as one big string with newlines in between each paragraph
+3. **DATA_AS_ARRAY**                The data in each website seperated into different elements of an array
 
 **max** is the last result wanted
 
